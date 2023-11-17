@@ -51,7 +51,7 @@ A monolithic architecture can enable rapid development and deployment of MVPs. I
 ## *Diagram*
 
 
-![monolithic](https://github.com/williamconnolly56/software-engineering-notes/assets/146080335/c277f40e-9c95-4c09-ab0c-383ab22d6f35)
+![monolithic](https://github.com/williamconnolly56/software-engineering-notes/assets/146080335/b018f7f9-ec58-4525-8a9b-e0f8d8861a37)
 
 
 ## References

@@ -34,8 +34,7 @@ A monolithic architecture can enable rapid development and deployment of MVPs. I
 | Technology stack | Typically uses a single technology stack for the entire application. Changing to a new technology often involves significant refactoring.| Permits the use of different technologies for different microservices. |
 | Fault isolation | Limited fault isolation; a failure in one component may affect the entire system. | Improved fault isolation; a failure in one microservice does not necessarily impact others. |
 | Team structure | Coordination is required when multiple developers are working on the same codebase. | Facilitates larger teams as each microservice can be developed and maintained independently. |
-| Communication between components | Components communicate directly within the application code.
- | Communication often occurs via APIs, HTTP, or message queues. |
+| Communication between components | Components communicate directly within the application code. | Communication often occurs via APIs, HTTP, or message queues. |
 | Resource utilization | Resource allocation is uniform for all components which may be suboptimal. | Enables more efficient resource utilization. |
 
 ## *Diagram*
